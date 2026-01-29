@@ -11,6 +11,18 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Project Log",
+        "groups": [
+          {
+            "group": "Timeline",
+            "pages": [
+              "project-log/index",
+              "project-log/2026-01-29-infra-setup"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Guides",
         "groups": [
           {
@@ -102,15 +114,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
